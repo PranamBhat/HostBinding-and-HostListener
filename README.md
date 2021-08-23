@@ -29,7 +29,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ---------------------------------------------------------------------------
 
-![width="1000" ezgif com-gif-maker](https://user-images.githubusercontent.com/32120033/130394383-1e117ddf-b4ba-4b5f-b3c7-466b04405560.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/32120033/130394383-1e117ddf-b4ba-4b5f-b3c7-466b04405560.gif =1000x250)
 
 ---------------------------------------------------------------------------
 
