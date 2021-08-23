@@ -29,6 +29,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ---------------------------------------------------------------------------
 
+<video width="1000" controls>
+  <source src="/screenshots/HostBinding-HostListener.wmv" type="video/wmv">
+</video>
+
+---------------------------------------------------------------------------
+
 ## Development Server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
