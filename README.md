@@ -29,11 +29,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ---------------------------------------------------------------------------
 
-<video width="1000" controls>
-  <source src="/screenshots/HostBinding-HostListener.wmv" type="video/wmv">
-</video>
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/32120033/130394383-1e117ddf-b4ba-4b5f-b3c7-466b04405560.gif)
 
 ---------------------------------------------------------------------------
+
 
 ## Development Server
 
